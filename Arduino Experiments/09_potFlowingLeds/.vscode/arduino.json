@@ -1,0 +1,6 @@
+{
+    "sketch": "_08_potFlowingLeds.ino",
+    "board": "arduino:avr:mega",
+    "configuration": "cpu=atmega2560",
+    "port": "/dev/ttyACM0"
+}

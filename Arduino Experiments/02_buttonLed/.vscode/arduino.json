@@ -1,0 +1,6 @@
+{
+    "sketch": "_02_buttonLed.ino",
+    "board": "arduino:avr:mega",
+    "configuration": "cpu=atmega2560",
+    "port": "COM4"
+}
